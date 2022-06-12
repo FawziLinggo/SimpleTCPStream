@@ -7,6 +7,7 @@ kemudian _Client.java_
 
 Jika menggunakan maven
 jalankan Server dengan perintah
+
 `mvn clean install package`
 
 `java -jar target/server-jar-with-dependencies.jar`
